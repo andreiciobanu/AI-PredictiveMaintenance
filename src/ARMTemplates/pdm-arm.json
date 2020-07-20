@@ -57,7 +57,7 @@
           }
     },
     "variables": {
-         "gitHubBaseUrl": "https://raw.githubusercontent.com/Azure/AI-PredictiveMaintenance/master/"   
+         "gitHubBaseUrl": "https://raw.githubusercontent.com/andreiciobanu/AI-PredictiveMaintenance/master/"   
         },
     "resources": [
         {
@@ -166,7 +166,7 @@
         },
         {
         "apiVersion": "2017-05-10",
-        "name": "linuxDsvmTemplate",
+        "name": "windowsTemplate",
         "type": "Microsoft.Resources/deployments",
         "dependsOn": [
             "storageAccountTemplate"
@@ -174,7 +174,7 @@
         "properties": {
         "mode": "incremental",
         "templateLink": {
-            "uri":"[concat(variables('gitHubBaseUrl'),'src/ARMTemplates/linuxDsvm.json')]",
+            "uri":"[concat(variables('gitHubBaseUrl'),'src/ARMTemplates/windowsDsvm.json')]",
             "contentVersion":"1.0.0.0"
                 },
         "parameters": {
