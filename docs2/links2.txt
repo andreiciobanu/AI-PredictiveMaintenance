@@ -7,19 +7,17 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio/deploy-a-machine-
 https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
 
 https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/PredictiveMaintanenceModelingGuide
-
 https://www.grc.nasa.gov/WWW/cdtb/software/mapss.html
-
 https://ti.arc.nasa.gov/m/pub-archive/154/154_Saxena.pdf
-
 https://www.youtube.com/watch?v=rLpKnx0pUEE
 
 https://blog.mide.com/6-ways-to-measure-vibrations
 
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/predictive-maintenance-playbook
-
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/walkthroughs
-
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where
-
 https://docs.microsoft.com/en-us/azure/machine-learning/studio/deploy-a-machine-learning-web-service
+
+https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/remote-patient-monitoring?view=azurermps-6.5.0
+https://github.com/Azure/AI-PredictiveMaintenance/tree/master/docs
+https://github.com/Azure/azure-iot-predictive-maintenance
