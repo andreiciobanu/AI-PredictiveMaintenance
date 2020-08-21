@@ -21,3 +21,6 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio/deploy-a-machine-
 https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/remote-patient-monitoring?view=azurermps-6.5.0
 https://github.com/Azure/AI-PredictiveMaintenance/tree/master/docs
 https://github.com/Azure/azure-iot-predictive-maintenance
+
+https://azure.microsoft.com/en-us/resources/principles-of-data-science/
+https://github.com/Azure/MachineLearningNotebooks
