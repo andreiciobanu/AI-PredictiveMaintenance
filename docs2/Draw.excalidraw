@@ -22,7 +22,9 @@
       "width": 221.00000000000003,
       "height": 92,
       "seed": 855746509,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -44,6 +46,8 @@
       "height": 32,
       "seed": 1509314499,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Data Generator",
@@ -71,6 +75,8 @@
       "height": 32,
       "seed": 108560685,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "IoT Hub",
@@ -97,7 +103,9 @@
       "width": 221.00000000000003,
       "height": 92,
       "seed": 1871303565,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "rectangle",
@@ -118,7 +126,9 @@
       "width": 287,
       "height": 100,
       "seed": 726855107,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -140,6 +150,8 @@
       "height": 64,
       "seed": 1636566051,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Telemetry archive and\nEnterprise Data(SQL)",
@@ -166,7 +178,9 @@
       "width": 291,
       "height": 80,
       "seed": 559854467,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -188,6 +202,8 @@
       "height": 32,
       "seed": 524686925,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Input DataSet",
@@ -215,6 +231,8 @@
       "height": 0.13936644006025745,
       "seed": 1672516141,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -224,7 +242,8 @@
           253.09757334556082,
           -0.13936644006025745
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "arrow",
@@ -246,6 +265,8 @@
       "height": 139.04724637566136,
       "seed": 2083707341,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -255,7 +276,8 @@
           1.8339586608810805,
           139.04724637566136
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "arrow",
@@ -277,6 +299,8 @@
       "height": 1.6015885427780177,
       "seed": 1659953453,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -286,7 +310,8 @@
           250.1622168934531,
           -1.6015885427780177
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "rectangle",
@@ -307,7 +332,9 @@
       "width": 178.27272727272725,
       "height": 143.81818181818187,
       "seed": 1040524717,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -329,6 +356,8 @@
       "height": 58,
       "seed": 129330861,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 18.812228479485075,
       "fontFamily": 1,
       "text": "Databricks\nLinux DSVM",
@@ -356,6 +385,8 @@
       "height": 0,
       "seed": 531924365,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -365,7 +396,8 @@
           0,
           0
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "arrow",
@@ -387,6 +419,8 @@
       "height": 0,
       "seed": 1261645453,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -396,7 +430,8 @@
           89,
           0
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "rectangle",
@@ -417,7 +452,9 @@
       "width": 168.2727272727273,
       "height": 92,
       "seed": 772386349,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -439,6 +476,8 @@
       "height": 58,
       "seed": 30479555,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 18.161389172625114,
       "fontFamily": 1,
       "text": "Feature \nDataset",
@@ -466,6 +505,8 @@
       "height": 32,
       "seed": 1174273325,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Feature Engineering",
@@ -493,6 +534,8 @@
       "height": 0.9090909090908781,
       "seed": 768098733,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -502,7 +545,8 @@
           44.545454545454504,
           0.9090909090908781
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "text",
@@ -524,6 +568,8 @@
       "height": 32,
       "seed": 632094765,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Training & Evaluation",
@@ -550,7 +596,9 @@
       "width": 178.27272727272725,
       "height": 143.81818181818187,
       "seed": 1337331683,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -572,6 +620,8 @@
       "height": 64,
       "seed": 956477677,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Linux DSVM\nAzure ML",
@@ -599,6 +649,8 @@
       "height": 32,
       "seed": 998131043,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Repeat",
@@ -626,6 +678,8 @@
       "height": 65.45454545454544,
       "seed": 1977417453,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -691,7 +745,8 @@
           466.36363636363626,
           10.909090909090878
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "arrow",
@@ -713,6 +768,8 @@
       "height": 0,
       "seed": 1679988227,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -722,7 +779,8 @@
           43.63636363636374,
           0
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "diamond",
@@ -743,7 +801,9 @@
       "width": 135.4545454545453,
       "height": 132.72727272727275,
       "seed": 2055173773,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -765,6 +825,8 @@
       "height": 64,
       "seed": 1277799405,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Trained \nModel",
@@ -792,6 +854,8 @@
       "height": 1.8181818181818699,
       "seed": 681009571,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -801,7 +865,8 @@
           48.181818181818244,
           1.8181818181818699
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "text",
@@ -823,6 +888,8 @@
       "height": 96,
       "seed": 2024396188,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Databrikcs: Apache Spark based analytics service\nApache Spark is a unified analytics engine for large-scale data processing.\nclean, transform, and analyze the streaming data",
@@ -850,6 +917,8 @@
       "height": 32,
       "seed": 816860708,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Static Seed Data",
@@ -877,6 +946,8 @@
       "height": 142.266050772283,
       "seed": 449922076,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -886,7 +957,8 @@
           0.4448077916235036,
           -142.266050772283
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "text",
@@ -908,6 +980,8 @@
       "height": 64,
       "seed": 1562223396,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Simulated real-time\ntelemetry",
@@ -935,6 +1009,8 @@
       "height": 64,
       "seed": 895772444,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Transformation\nand consolidation",
@@ -961,7 +1037,9 @@
       "width": 247.00000000000006,
       "height": 66,
       "seed": 691893540,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -983,6 +1061,8 @@
       "height": 32,
       "seed": 727375644,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "IoT Device Telemetry",
@@ -1009,7 +1089,9 @@
       "width": 300,
       "height": 55,
       "seed": 1939550372,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -1031,6 +1113,8 @@
       "height": 32,
       "seed": 191404956,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Azure blob service",
@@ -1058,6 +1142,8 @@
       "height": 1,
       "seed": 833977380,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -1067,7 +1153,8 @@
           97,
           -1
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "rectangle",
@@ -1088,7 +1175,9 @@
       "width": 247.99999999999997,
       "height": 66,
       "seed": 193644572,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -1110,6 +1199,8 @@
       "height": 32,
       "seed": 1568298916,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "IoT Device failure logs",
@@ -1136,7 +1227,9 @@
       "width": 300,
       "height": 55,
       "seed": 263414940,
-      "groupIds": []
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
     },
     {
       "type": "text",
@@ -1158,6 +1251,8 @@
       "height": 32,
       "seed": 51888932,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": " Azure storage table",
@@ -1185,6 +1280,8 @@
       "height": 0,
       "seed": 764703004,
       "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -1194,7 +1291,8 @@
           94,
           0
         ]
-      ]
+      ],
+      "lastCommittedPoint": null
     },
     {
       "type": "text",
@@ -1216,6 +1314,8 @@
       "height": 32,
       "seed": 2029764260,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Data Ingestion",
@@ -1243,6 +1343,8 @@
       "height": 64,
       "seed": 751831196,
       "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
       "fontSize": 20,
       "fontFamily": 1,
       "text": "Feature engineering: the process of transforming raw training data into a \nrepresentation suitable for the application of machine learning algorithms.",
@@ -1251,73 +1353,79 @@
       "verticalAlign": "top"
     },
     {
-      "id": "aumHtQ0e--84VT8NzkDmA",
       "type": "rectangle",
-      "x": 234,
-      "y": 1028,
-      "width": 319.99999999999994,
-      "height": 56,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "seed": 1800319614,
       "version": 47,
       "versionNonce": 1866204798,
-      "isDeleted": false
-    },
-    {
-      "id": "k45RMdslpnWEZfpKRv8Z1",
-      "type": "text",
-      "x": 238.5,
-      "y": 1041,
-      "width": 304,
-      "height": 32,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "isDeleted": false,
+      "id": "aumHtQ0e--84VT8NzkDmA",
       "fillStyle": "solid",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 234,
+      "y": 1028,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 319.99999999999994,
+      "height": 56,
+      "seed": 1800319614,
       "groupIds": [],
-      "seed": 1472429346,
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "text",
       "version": 6,
       "versionNonce": 927737954,
       "isDeleted": false,
-      "text": "Maintenance and failure record",
-      "fontSize": 20,
-      "fontFamily": 1,
-      "textAlign": "center",
-      "verticalAlign": "middle",
-      "baseline": 23
-    },
-    {
-      "id": "POFDHjNe0QNSNxrKisGS0",
-      "type": "arrow",
-      "x": 387,
-      "y": 986,
-      "width": 2,
-      "height": 39,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "id": "k45RMdslpnWEZfpKRv8Z1",
       "fillStyle": "solid",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 238.5,
+      "y": 1041,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 304,
+      "height": 32,
+      "seed": 1472429346,
       "groupIds": [],
-      "seed": 223671650,
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Maintenance and failure record",
+      "baseline": 23,
+      "textAlign": "center",
+      "verticalAlign": "middle"
+    },
+    {
+      "type": "arrow",
       "version": 28,
       "versionNonce": 1362265790,
       "isDeleted": false,
+      "id": "POFDHjNe0QNSNxrKisGS0",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 387,
+      "y": 986,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 2,
+      "height": 39,
+      "seed": 223671650,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
@@ -1331,73 +1439,79 @@
       "lastCommittedPoint": null
     },
     {
-      "id": "CPi_f32xKfeH4LrCp7vcg",
       "type": "rectangle",
-      "x": 316,
-      "y": 734,
-      "width": 154,
-      "height": 41,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "seed": 549648354,
       "version": 33,
       "versionNonce": 149287906,
-      "isDeleted": false
-    },
-    {
-      "id": "uxaYdKRL7Ga-u-nOCzSOp",
-      "type": "text",
-      "x": 351.5,
-      "y": 738.5,
-      "width": 83,
-      "height": 32,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "isDeleted": false,
+      "id": "CPi_f32xKfeH4LrCp7vcg",
       "fillStyle": "solid",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 316,
+      "y": 734,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 154,
+      "height": 41,
+      "seed": 549648354,
       "groupIds": [],
-      "seed": 406854526,
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "text",
       "version": 16,
       "versionNonce": 1879434658,
       "isDeleted": false,
-      "text": "Telemtry",
-      "fontSize": 20,
-      "fontFamily": 1,
-      "textAlign": "center",
-      "verticalAlign": "middle",
-      "baseline": 23
-    },
-    {
-      "id": "GoiJYVoLJMqELTT0cLjyt",
-      "type": "arrow",
-      "x": 389,
-      "y": 834,
-      "width": 2,
-      "height": 58,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "id": "uxaYdKRL7Ga-u-nOCzSOp",
       "fillStyle": "solid",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 351.5,
+      "y": 738.5,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 83,
+      "height": 32,
+      "seed": 406854526,
       "groupIds": [],
-      "seed": 1743666558,
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Telemtry",
+      "baseline": 23,
+      "textAlign": "center",
+      "verticalAlign": "middle"
+    },
+    {
+      "type": "arrow",
       "version": 24,
       "versionNonce": 2127872674,
       "isDeleted": false,
+      "id": "GoiJYVoLJMqELTT0cLjyt",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 389,
+      "y": 834,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 2,
+      "height": 58,
+      "seed": 1743666558,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
       "points": [
         [
           0,
